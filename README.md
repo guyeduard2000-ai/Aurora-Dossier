@@ -105,16 +105,16 @@ Corrections to errors are welcome at any time. New formal results should state t
 If you use this work, please cite the archived release. See `CITATION.cff` and the Zenodo DOI once minted:
 
 ```
-[AUTHOR NAME / HANDLE]. AURORA: A Formal Alignment Dossier and Open Research Platform. 2026. DOI: [ZENODO DOI]
+Guj Eduard. AURORA: A Formal Alignment Dossier and Open Research Platform. 2026. DOI: [ZENODO DOI]
 ```
 
 ## Author
 
-[AUTHOR NAME / HANDLE], independent researcher. Updates are published on X: [HANDLE LINK].
+Guj Eduard, independent researcher.
 
 ## License
 
-- Documents: [CC BY 4.0, or your choice]
-- Code: [MIT / Apache-2.0, or your choice]
-
-*Pick and add a `LICENSE` file; without one, others have no legal right to reuse the material.*
+- Documents: MIT 
+- Code:  MIT  
+MIT License. See the LICENSE file.
+ 
