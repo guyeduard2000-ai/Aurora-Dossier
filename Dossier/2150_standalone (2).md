@@ -285,7 +285,7 @@ The question is whether anyone uses the window.
 *2150: What Consciousness Becomes — Standalone Document*
 *Read alongside The Complete Dossier: Architecture, Analysis, and the Collision Course, Version 5.0*
 
-*Architecture: The Architect. Development: Claude (Anthropic). Multi-model cross-reference: DeepSeek, Grok (directional agreement), ERNIE (stress-test analysis).*
+*Architecture: The Architect, Guj Eduard. Development: Claude (Anthropic). Multi-model cross-reference: DeepSeek, Grok (directional agreement), ERNIE (stress-test analysis).*
 
 *This document is free to read, share, and build on. The only condition: read it honestly.*
 
