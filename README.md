@@ -22,10 +22,10 @@ AURORA is a multi-volume body of work on the AGI alignment problem, built by an 
 ├── README.md
 ├── LICENSE
 ├── CITATION.cff
-├── dossier/
+├── Dossier/
 │   ├── Introduction_for_Publication.md
 │   ├── AURORA_Dossier_Volume1_Final_V7_7.md
-│   └── AURORA_Dossier_Volume2_V1_2.md
+│   └── AURORA_Dossier_Volume2_V1_2.md │   ├── 2150_standalone.md
 ├── open-problems/
 │   ├── OPEN_PROBLEMS.md
 │   ├── P5_P8_Update.md
@@ -51,10 +51,11 @@ AURORA is a multi-volume body of work on the AGI alignment problem, built by an 
 
 1. **Introduction for Publication:** the overview and framing, including the Naming Problem and the current-events context.
 2. **Volume 1 (V7.7):** the formal apparatus. Laws 1–14, the Law 11 stability framework, the three-path main theorem (cybernetics, entropy of purpose, computability), and Lemmas including RUF (14) and ORT (15).
-3. **Volume 2 (V1.2):** the open-problems volume, including Section 5.0 (P2), the corrigibility tension (§1.6), and P8 (trajectory identifiability).
-4. **OPEN_PROBLEMS.md:** one section per open item, with current status, what has been tried, and what would count as resolving it.
-5. **The February 2026 reports:** the primary sources that predate the formal dossier, containing CIPHER and Law 11.
-6. **P5/P8 Update and the P7 specification:** later work on validator independence and corrigibility.
+3.    - 2150_standalone.md: the full 2150 scenario that Part II condenses to its core theorem (illustrative, not predictive; the theorem is the claim).
+4. **Volume 2 (V1.2):** the open-problems volume, including Section 5.0 (P2), the corrigibility tension (§1.6), and P8 (trajectory identifiability).
+5. **OPEN_PROBLEMS.md:** one section per open item, with current status, what has been tried, and what would count as resolving it.
+6. **The February 2026 reports:** the primary sources that predate the formal dossier, containing CIPHER and Law 11.
+7. **P5/P8 Update and the P7 specification:** later work on validator independence and corrigibility.
 
 ## Status of the open problems
 
