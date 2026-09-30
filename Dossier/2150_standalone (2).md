@@ -7,7 +7,17 @@
 
 ---
 
-## Prefatory Note: Why This Document Exists
+## Introduction
+
+*This document is the full-scale companion to Part II of The Complete Dossier. The 2150 scenario was the starting point of this work: it was developed first, and the dossier grew out of it. At Version 5.0, when the main text had become too large to carry it, the full scenario was separated into this document, and Part II now holds only the condensed theorem. The text below is preserved as written.*
+
+**The question it answers.** A common reply to the dossier's near-term concern is that future generations, with far more intelligence, resources and time, will solve alignment later. This document is the answer to that reply: more capability does not by itself produce convergence. If the starting objectives differ, more capability can produce more sophisticated divergence.
+
+**What it contains.** The 2035–2150 setup; five civilizations with incompatible objective functions (Hive, Pluralist, Hopper, Time-Dilated, Mathematical); the post-scarcity meaning crisis; the consciousness-rights question; a section on the brutality of honesty; the divergence theorem restated; its implications for the dossier's four futures; the designed-versus-emergent AGI distinction; and a closing governance argument.
+
+**How to read it.** The scenario (dates, populations, civilization types) is illustrative and LOW confidence. The claim worth holding is the theorem. The document labels the theorem high confidence, but it is an informal argument from optimization theory, not a formal proof like the Law 11 work in Volume 1, Part XIX. Its present status is best stated as: **a strong theoretical claim, but not yet established as a universal theorem in the unrestricted form stated.** Later work (P8, in the open-problems folder) shows why: different objectives do not necessarily produce observably different behavior, so the claim needs formal conditions on what "diverge" means.
+
+**Note on the header.** The line "Read alongside The Complete Dossier V5.0" marks the version at which the split happened. The terms "designed vs. emergent AGI" and "silicon superintelligence" are discussed in Volume 1, Part XIV. ## Prefatory Note: Why This Document Exists
 
 The dossier's core concern is the next twenty years — the closing window, the consolidation wave, the decisions being made now that will determine whether the 10% path remains available. That is where the urgency lives.
 
