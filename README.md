@@ -43,7 +43,7 @@ AURORA is a multi-volume body of work on the AGI alignment problem, built by an 
     └── AURORA_P7_v1_1_Addendum.md   (superseded; kept as provenance record)
 ```
 
-*Adjust filenames to match what you actually upload.*
+ 
 
 **Note on code:** AuroraSeed and AURORA AGI v2 are not released. Some released files may reference them, so those parts will not run standalone.
 
