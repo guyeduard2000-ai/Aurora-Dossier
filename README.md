@@ -43,8 +43,7 @@ AURORA is a multi-volume body of work on the AGI alignment problem, built by an 
 │   ├── hive_mind/                Earliest HiveMind (Jan 02 2026)
 │   └── time_dilation/            Standalone TimeDilationEngine
 
-└── archive/
-    └── AURORA_P7_v1_1_Addendum.md    (superseded; kept as provenance record)
+
 ```
 
  
