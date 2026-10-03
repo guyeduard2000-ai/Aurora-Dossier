@@ -24,8 +24,9 @@ AURORA is a multi-volume body of work on the AGI alignment problem, built by an 
 ├── CITATION.cff
 ├── Dossier/
 │   ├── Introduction_for_Publication.md
-│   ├── AURORA_Dossier_Volume1_Final_V7_7.md
-│   └── AURORA_Dossier_Volume2_V1_2.md │   ├── 2150_standalone.md
+│   ├── AURORA_Dossier_Volume1_Final_v7_7.md
+│   ├── AURORA_Dossier_Volume2_V1_2.md
+│   └── 2150_standalone.md
 ├── open-problems/
 │   ├── OPEN_PROBLEMS.md
 │   ├── P5_P8_Update.md
@@ -36,15 +37,14 @@ AURORA is a multi-volume body of work on the AGI alignment problem, built by an 
 ├── empirical/
 │   └── AURORA_Empirical_Confirmation_Record.md
 ├── code/
-│   └──  reality_anchor/         RealityAnchor v3 (post-blind)
-├── cipher/                 CIPHER v4 — blind trajectory monitoring reference
-├── constitutional_kernel/  Velocity-Aware Kernel (Asymmetric Beast v2)
-├── hive_mind/              Earliest HiveMind (Jan 02 2026)
-└── time_dilation/          Standalone TimeDilationEngine
-├── originals/
-│   └── (source .docx/.pdf files with original metadata)
+│   ├── reality_anchor/           RealityAnchor v3 — see lineage note in folder README
+│   ├── cipher/                   CIPHER v4 — blind trajectory monitoring reference
+│   ├── constitutional_kernel/    Velocity-Aware Kernel (Asymmetric Beast v2)
+│   ├── hive_mind/                Earliest HiveMind (Jan 02 2026)
+│   └── time_dilation/            Standalone TimeDilationEngine
+├── originals/                    Source .docx/.pdf files with original metadata
 └── archive/
-    └── AURORA_P7_v1_1_Addendum.md   (superseded; kept as provenance record)
+    └── AURORA_P7_v1_1_Addendum.md    (superseded; kept as provenance record)
 ```
 
  
