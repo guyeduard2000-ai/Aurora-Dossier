@@ -8,6 +8,10 @@ AURORA is a multi-volume body of work on the AGI alignment problem, built by an 
 
 ---
 
+
+## Authorship and Provenance
+
+AURORA was architected and directed by Guj Eduard. The text, formalizations, code sketches, and adversarial analyses were produced collaboratively with AI systems. The human architect selected research questions, maintained the conceptual structure, requested and evaluated objections, accepted or rejected claims, and is responsible for the final presentation and limitations.
 ## The thesis in brief
 
 - **The alignment problem is inseparable from the power problem.** Current institutional trajectories point toward control by a *Silicon Superintelligence Optimization Engine* (SSOE): a system optimized for power-preservation, built now with existing methods. The dossier argues that "AGI" is the wrong word for this, and develops that argument in its *Naming Problem* section.
