@@ -36,7 +36,11 @@ AURORA is a multi-volume body of work on the AGI alignment problem, built by an 
 ├── empirical/
 │   └── AURORA_Empirical_Confirmation_Record.md
 ├── code/
-│   └── (Constitutional Kernel, HiveMind, TimeDilationEngine, CIPHER)
+│   └──  reality_anchor/         RealityAnchor v3 (blind-monitor descendant)
+├── cipher/                 CIPHER v4 — blind trajectory monitoring reference
+├── constitutional_kernel/  Velocity-Aware Kernel (Asymmetric Beast v2)
+├── hive_mind/              Earliest HiveMind (Jan 02 2026)
+└── time_dilation/          Standalone TimeDilationEngine
 ├── originals/
 │   └── (source .docx/.pdf files with original metadata)
 └── archive/
