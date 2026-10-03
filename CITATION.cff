@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "AURORA: A Formal Alignment Dossier and Open Research Platform"
+abstract: >
+  AURORA is a multi-volume formal alignment dossier covering constitutional
+  kernel architecture, RealityAnchor trajectory monitoring (blind and
+  velocity-aware variants), the CIPHER adversarial evasion experiment, a
+  HiveMind collective intelligence simulation, and a TimeDilationEngine
+  for computational temporal distortion. The dossier is presented as an
+  open research platform with explicit falsification criteria, stated
+  assumptions, and a status table for each claim. It does not claim to
+  have solved alignment.
+type: software
+authors:
+  - family-names: "Guj"
+    given-names: "Eduard"
+    alias: "guyeduard2000-ai"
+    affiliation: "Independent researcher"
+version: "1.0"
+date-released: "2026-10-03"
+license: MIT
+repository-code: "https://github.com/guyeduard2000-ai/Aurora-Dossier"
+url: "https://github.com/guyeduard2000-ai/Aurora-Dossier"
+doi: "10.5281/zenodo.23125353"
+keywords:
+  - AI alignment
+  - corrigibility
+  - constitutional AI
+  - trajectory monitoring
+  - adversarial evasion
+  - formal methods
+  - AI safety
+  - research dossier
