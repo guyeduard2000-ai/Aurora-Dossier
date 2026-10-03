@@ -118,7 +118,11 @@ Guj Eduard. AURORA: A Formal Alignment Dossier and Open Research Platform. 2026.
 
 ## Author
 
+
+
 Guj Eduard, independent researcher.
+
+See [Authorship and Provenance](#authorship-and-provenance) above for the full statement on the collaborative process.
 
 ## License
 
