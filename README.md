@@ -1,5 +1,7 @@
 # AURORA
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23125353.svg)](https://doi.org/10.5281/zenodo.23125353)
+
 **A formal alignment dossier and open research platform.**
 
 AURORA is a multi-volume body of work on the AGI alignment problem, built by an independent researcher working alone with heavy multi-model LLM collaboration. It contains a formal framework (laws, lemmas, a main theorem), a simulation-based empirical record, and an explicit list of **open problems left open on purpose**.
@@ -82,7 +84,7 @@ Details, history and resolution criteria are in `open-problems/OPEN_PROBLEMS.md`
 ## Known issues (stated up front)
 
 - **RUF / Lemma 14.** Volume 1 V7.7 states "P3 closed." The proof asserts, but does not derive, that non-computability implies a uniform positive error floor. Hamkins & Miasnikov (2006) give a case where the halting problem is decidable on a set of asymptotic probability one, showing that this inference pattern fails for at least one comparable measure. The text of V7.7 is left unchanged as a historical record; the **current corpus status is P3/RUF = open**, and the Law 11 chain through RUF carries a flagged dependency. Lemma 14 also mislabels the universal distribution "non-atomic."
-- **Five Eyes statement.** The Introduction paraphrases the June 2026 Five Eyes joint statement more broadly than the source supports. *(Correct this before publishing, or note it here.)*
+- **Five Eyes statement.** The Introduction paraphrases the June 2026 Five Eyes joint statement more broadly than the source supports. 
 - **Simulation scale.** CIPHER and the AURORA systems are simulations at toy scale. The results (for example, a monitor being evaded by a learning adversary) demonstrate a mechanism, not behavior of real frontier systems. Apollo Research (Meinke et al., Dec 2024) found the corresponding mechanism empirically on real frontier models first.
 - **Unverified citations.** Everitt et al. 2016 (used for P6a/P7) has not been independently verified against the primary source. Meinke et al. 2024 and Cheng et al. 2026, as cited in the P7 material, are flagged as unverified there.
 
@@ -110,10 +112,10 @@ Corrections to errors are welcome at any time. New formal results should state t
 
 ## Citation
 
-If you use this work, please cite the archived release. See `CITATION.cff` and the Zenodo DOI once minted:
+If you use this work, please cite the archived release. See `CITATION.cff` and the Zenodo record:
 
 ```
-Guj Eduard. AURORA: A Formal Alignment Dossier and Open Research Platform. 2026. DOI: [ZENODO DOI]
+Guj Eduard. AURORA: A Formal Alignment Dossier and Open Research Platform. 2026. DOI:  https://doi.org/10.5281/zenodo.23125353
 ```
 
 ## Author
